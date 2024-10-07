@@ -1,0 +1,8 @@
+.cache/
+CMakeFiles/
+cmake_install.cmake
+compile_commands.json
+CMakeCache.txt
+lib*
+Makefile
+vgcore*
